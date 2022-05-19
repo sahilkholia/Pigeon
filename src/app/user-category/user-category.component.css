@@ -1,0 +1,36 @@
+
+.content{
+    width: 100%;
+}
+.login-head{
+    width: 100%;
+    display: grid;
+    place-content: center;
+    padding-top: 5%;
+    background-color: #3d405b;
+    color: white;
+}
+.login-panels{
+    display: flex;
+    margin-top: 5%;
+}
+.shopkeeper{
+    width: 50%;
+    padding-left: 15%;
+}
+.customer{
+    width: 50%;
+    padding-left: 5%;
+}
+.btns{
+    width: 100%;
+    display: block;
+
+}
+button {
+    width: 60%;
+    height: 50px;
+    margin-bottom: 5%;
+    background-color: #e07a5f;
+    color: white;
+}
